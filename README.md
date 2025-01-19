@@ -1,4 +1,4 @@
-# Network-project
+# Advanced Company Network Project
 ![advanced network](https://github.com/user-attachments/assets/2e8114f9-a6a6-46ed-8c19-16d1268ccff5)
 
 ## Configuration steps :
