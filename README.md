@@ -8,7 +8,7 @@
 
 2. VLAN assignment plus all access and trunk ports on 12 and 13 switches.
 
-2.1. STP Portfast and BPDUguard configs on all access ports.
+ 2.1. STP Portfast and BPDUguard configs on all access ports.
 
 3. EtherChannel
 
@@ -24,7 +24,7 @@
 
 9. Firewall interface security zones and levels
 
-9.1. Firewall routing OSPF + Static
+  9.1. Firewall routing OSPF + Static
 
 10. Firewall inspection policy configuration
 
